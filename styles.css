@@ -1,0 +1,49 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  height:300px; 
+  width:300px;
+
+}
+
+body {
+  background-color: #CD5656;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Bebas Neue', "sans-serif";
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 3rem;
+  color: #4ECCA3;
+  font-family: 'Edu NSW ACT Cursive', cursive;
+}
+
+img {
+  width: 80%;
+  height:80%;
+  
+}
+
+footer {
+  margin-top: 10%;
+  color: #EEEEEE;
+  text-align: left;
+  font-family: 'Indie Flower', cursive;
+
+}
+.copyright{
+  float:left;
+  
+}
